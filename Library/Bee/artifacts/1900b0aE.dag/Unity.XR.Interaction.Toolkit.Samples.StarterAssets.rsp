@@ -109,7 +109,6 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
--define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -118,8 +117,10 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_INPUT_SYSTEM
--define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:USE_INPUT_SYSTEM_POSE_CONTROL
+-define:USE_INPUT_SYSTEM_POSE_CONTROL
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -329,10 +330,10 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:"Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/log4netPlastic.dll"
--r:"Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
--r:"Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
--r:"Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/log4netPlastic.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/unityplastic.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
@@ -346,13 +347,19 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/ActionBasedControllerManager.cs"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/DestroySelf.cs"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/DynamicMoveProvider.cs"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/GazeInputManager.cs"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/ObjectSpawner.cs"
-"Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/XRPokeFollowAffordance.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/DemoSceneAssets/Scripts/MultiAnchorTeleportReticle.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/DemoSceneAssets/Scripts/TeleportVolumeAnchorAffordanceStateLink.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/ClimbTeleportDestinationIndicator.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/ControllerAnimator.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/ControllerInputActionManager.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/DestroySelf.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/DynamicMoveProvider.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/GazeInputManager.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/MaterialPipelineHandler.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/ObjectSpawner.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/RotationAxisLockGrabTransformer.cs"
+"Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/Scripts/XRPokeFollowAffordance.cs"
 -langversion:9.0
 /deterministic
 /optimize+
