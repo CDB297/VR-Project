@@ -18,7 +18,8 @@ public class BowString : MonoBehaviour
     public void CreateString(Vector3? midPosition)
     {
         Vector3[] linePoints = new Vector3[midPosition == null ? 2 : 3];
-        linePoints[0] = endpoint_1.localPosition;
+        Vector3 localPosition = endpoint_1.localPosition;
+        linePoints[0] = localPosition;
         if (midPosition != null)
         {
             linePoints[1] = transform.InverseTransformPoint(midPosition.Value);
