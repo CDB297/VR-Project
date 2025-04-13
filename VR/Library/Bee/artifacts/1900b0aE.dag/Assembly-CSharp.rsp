@@ -399,6 +399,7 @@
 "Assets/Scripts/BowString.cs"
 "Assets/Scripts/BowStringController.cs"
 "Assets/Scripts/changeScene.cs"
+"Assets/Scripts/EnemyController.cs"
 "Assets/Scripts/lockAndKey.cs"
 "Assets/Scripts/StickingArrowToSurface.cs"
 "Assets/Scripts/Target.cs"
