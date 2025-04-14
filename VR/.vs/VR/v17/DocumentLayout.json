@@ -1,14 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\VR Design\\VR-Project\\VR\\",
+  "WorkspaceRootPath": "C:\\Users\\liamw\\Desktop\\VR-Project-newproject\\VR-Project-newproject\\VR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{780F136A-D83F-6325-96D9-2AB507E28714}|Assembly-CSharp.csproj|g:\\vr design\\vr-project\\vr\\assets\\scripts\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780F136A-D83F-6325-96D9-2AB507E28714}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\liamw\\Desktop\\VR-Project-newproject\\VR-Project-newproject\\VR\\Assets\\Scripts\\ArrowController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ArrowController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VR Design\\VR-Project\\VR\\Assets\\InputReaderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\InputReaderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\InputReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VR Design\\VR-Project\\VR\\Assets\\InputReaderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,24 +25,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InputReader.cs",
-              "DocumentMoniker": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\InputReader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InputReader.cs",
-              "ToolTip": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\InputReader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InputReader.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAqAAAA",
+              "Title": "ArrowController.cs",
+              "DocumentMoniker": "C:\\Users\\liamw\\Desktop\\VR-Project-newproject\\VR-Project-newproject\\VR\\Assets\\Scripts\\ArrowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArrowController.cs",
+              "ToolTip": "C:\\Users\\liamw\\Desktop\\VR-Project-newproject\\VR-Project-newproject\\VR\\Assets\\Scripts\\ArrowController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArrowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:27:55.826Z",
+              "WhenOpened": "2025-04-14T06:44:15.704Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\InputReader.cs",
+              "ToolTip": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\InputReader.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:27:55.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "InputReaderr.cs",
               "DocumentMoniker": "G:\\VR Design\\VR-Project\\VR\\Assets\\InputReaderr.cs",
-              "RelativeDocumentMoniker": "Assets\\InputReaderr.cs",
               "ToolTip": "G:\\VR Design\\VR-Project\\VR\\Assets\\InputReaderr.cs",
-              "RelativeToolTip": "Assets\\InputReaderr.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T09:26:26.564Z"
             }
