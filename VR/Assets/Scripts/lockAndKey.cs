@@ -25,7 +25,8 @@ public class lockAndKey : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject == key)
+        //if (other.gameObject == key)
+        if (other.CompareTag("Arrow"))
         {
             if (doorOpened == false)
             {
