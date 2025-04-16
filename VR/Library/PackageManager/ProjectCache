@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638801477340000000
-    m_Hash: 1702484425
+      ticks: 638803275960000000
+    m_Hash: 1756902728
   m_LockFileStatus:
     m_FilePath: G:/VR Design/VR-Project/VR/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638801477340000000
-    m_Hash: 4222978631
+      ticks: 638803275960000000
+    m_Hash: 2519843393
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -688,12 +688,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.timeline@1.7.6
+- packageId: com.unity.timeline@1.7.7
   testable: 0
   isDirectDependency: 1
-  version: 1.7.6
+  version: 1.7.7
   source: 1
-  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.timeline@1.7.6
+  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.timeline@1.7.7
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -702,7 +702,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 0
@@ -845,13 +845,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638326112840000000
+  datePublishedTicks: 638767785867400000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: 02f49ada64a9f88044207cf42ba407dc634ef8e6
+    revision: 36c3480685dcb744f098f1a1efe0623247ffab49
     path: 
   unityLifecycle:
     version: 1.7.6
@@ -935,12 +935,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.visualscripting@1.9.4
+- packageId: com.unity.visualscripting@1.9.6
   testable: 0
   isDirectDependency: 1
-  version: 1.9.4
+  version: 1.9.6
   source: 1
-  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.visualscripting@1.9.4
+  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.visualscripting@1.9.6
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1021,13 +1021,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638488567680000000
+  datePublishedTicks: 638769546699650000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 41aac2b7038c2b1259c546329890d3736ce2394e
+    revision: d24c56a75889cb6fe0046a9472368815d56d6bc7
     path: 
   unityLifecycle:
     version: 1.9.4
@@ -1179,7 +1179,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.10
+    version: 2.1.11
   - name: com.unity.modules.vr
     version: 1.0.0
   keywords:
@@ -1214,12 +1214,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.xr.management@4.5.0
+- packageId: com.unity.xr.management@4.5.1
   testable: 0
   isDirectDependency: 1
-  version: 4.5.0
+  version: 4.5.1
   source: 1
-  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.xr.management@4.5.0
+  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.xr.management@4.5.1
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1228,7 +1228,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: Package that provides simple management of XR plug-ins. Manages and
     offers help with loading, initialization, settings, and build support for XR
     plug-ins.
@@ -1303,10 +1303,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.xr
     version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.2.1
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.7
+    version: 2.1.11
   resolvedDependencies:
   - name: com.unity.modules.vr
     version: 1.0.0
@@ -1318,8 +1320,10 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.subsystems
     version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.3.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.10
+    version: 2.1.11
   keywords:
   - xr
   - sdk
@@ -1338,13 +1342,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638560264920000000
+  datePublishedTicks: 638785987307450000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.management@4.5/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-    revision: fa86b200cd8cd1b75a57534d44d41cc7b6b7f58d
+    revision: 0fe78d9177c9f96352ea5d06283c26e42f9ed490
     path: 
   unityLifecycle:
     version: 4.4.0
@@ -1475,7 +1479,7 @@ m_ResolvedPackages:
     version: 4.4.0
   resolvedDependencies:
   - name: com.unity.xr.management
-    version: 4.5.0
+    version: 4.5.1
   - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -1486,8 +1490,10 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.subsystems
     version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.3.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.10
+    version: 2.1.11
   keywords:
   - oculus
   - xr
@@ -1626,11 +1632,11 @@ m_ResolvedPackages:
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.xr.management
-    version: 4.5.0
+    version: 4.5.1
   - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.10
+    version: 2.1.11
   keywords:
   - openxr
   - xr
@@ -3848,12 +3854,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.xr.legacyinputhelpers@2.1.10
+- packageId: com.unity.xr.legacyinputhelpers@2.1.11
   testable: 0
   isDirectDependency: 0
-  version: 2.1.10
+  version: 2.1.11
   source: 1
-  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: G:\VR Design\VR-Project\VR\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -3862,7 +3868,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: XR
-  type: asset
+  type: 
   description: This package includes the tracked pose driver for the legacy input
     system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
     Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
@@ -3938,13 +3944,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637958908030000000
-  documentationUrl: 
+  datePublishedTicks: 638627703211970000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-    revision: 465ee12451634ea2b2986d54f6ae8be37316772a
+    revision: 43a3dc5e306cc961f9f0121a31ec3bd1285cf1a7
     path: 
   unityLifecycle:
     version: 2.1.10

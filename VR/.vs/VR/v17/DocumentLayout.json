@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\VR Design\\VR-Project\\VR\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\lockAndKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\lockAndKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VR Design\\VR-Project\\VR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRBaseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRBaseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\StickingArrowToSurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StickingArrowToSurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "XRBaseController.cs",
-              "DocumentMoniker": "G:\\VR Design\\VR-Project\\VR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRBaseController.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRBaseController.cs",
-              "ToolTip": "G:\\VR Design\\VR-Project\\VR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRBaseController.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRBaseController.cs",
-              "ViewState": "AQIAAM8BAAAAAAAAAAAIwN4BAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:01:56.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StickingArrowToSurface.cs",
-              "DocumentMoniker": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\StickingArrowToSurface.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StickingArrowToSurface.cs",
-              "ToolTip": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\StickingArrowToSurface.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StickingArrowToSurface.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:54:23.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lockAndKey.cs",
-              "DocumentMoniker": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\lockAndKey.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\lockAndKey.cs",
-              "ToolTip": "G:\\VR Design\\VR-Project\\VR\\Assets\\Scripts\\lockAndKey.cs",
-              "RelativeToolTip": "Assets\\Scripts\\lockAndKey.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAIwCEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:14:27.524Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
